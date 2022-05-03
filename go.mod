@@ -2,4 +2,4 @@ module github.com/MrCow3/goWebTodoList
 
 go 1.17
 
-require github.com/google/uuid v1.3.0 // indirect
+require github.com/google/uuid v1.3.0
